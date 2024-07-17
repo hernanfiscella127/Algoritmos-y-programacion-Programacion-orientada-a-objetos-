@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\bin\Debug\netcoreapp3.1\NombreEadDni.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\3_nombre edad y dni\NombreEadDni\NombreEadDni\obj\Debug\netcoreapp3.1\NombreEadDni.genruntimeconfig.cache

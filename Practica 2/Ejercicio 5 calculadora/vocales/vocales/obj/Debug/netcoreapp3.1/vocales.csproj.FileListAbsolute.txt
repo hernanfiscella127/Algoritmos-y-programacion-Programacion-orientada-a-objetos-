@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\bin\Debug\netcoreapp3.1\vocales.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 5 calculadora\vocales\vocales\obj\Debug\netcoreapp3.1\vocales.genruntimeconfig.cache

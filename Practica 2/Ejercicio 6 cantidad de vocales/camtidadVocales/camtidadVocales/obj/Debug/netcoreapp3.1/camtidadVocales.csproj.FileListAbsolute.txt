@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\bin\Debug\netcoreapp3.1\camtidadVocales.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 2\Ejercicio 6 cantidad de vocales\camtidadVocales\camtidadVocales\obj\Debug\netcoreapp3.1\camtidadVocales.genruntimeconfig.cache

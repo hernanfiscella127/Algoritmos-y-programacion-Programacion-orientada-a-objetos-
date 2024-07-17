@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\bin\Debug\netcoreapp3.1\trabajoFinal.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Proyecto final segundo cuatri (vercion a entregar)\trabajoFinal\trabajoFinal\obj\Debug\netcoreapp3.1\trabajoFinal.genruntimeconfig.cache

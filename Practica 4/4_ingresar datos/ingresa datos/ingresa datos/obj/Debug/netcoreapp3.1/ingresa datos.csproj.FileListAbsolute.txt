@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\bin\Debug\netcoreapp3.1\ingresa datos.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 4\4_ingresar datos\ingresa datos\ingresa datos\obj\Debug\netcoreapp3.1\ingresa datos.genruntimeconfig.cache

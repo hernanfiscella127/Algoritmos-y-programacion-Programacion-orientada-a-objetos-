@@ -1,0 +1,13 @@
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.exe
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.deps.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.runtimeconfig.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.runtimeconfig.dev.json
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\bin\Debug\netcoreapp3.1\avanza.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.AssemblyInfo.cs
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.dll
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.pdb
+C:\Users\herna\Desktop\study c#\C# Universidad\Practica 1\ejercicio divicion average programacion mas avanzado\avanza\avanza\obj\Debug\netcoreapp3.1\avanza.genruntimeconfig.cache
